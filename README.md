@@ -1,6 +1,13 @@
 # hpp-rbprm-robot-data
 File database for robots using the hpp-rbprm framework
 
-[![Pipeline status](https://gepgitlab.laas.fr/humanoid-path-planner/hpp-rbprm-robot-data/badges/master/pipeline.svg)](https://gepgitlab.laas.fr/humanoid-path-planner/hpp-rbprm-robot-data/commits/master)
-[![Coverage report](https://gepgitlab.laas.fr/humanoid-path-planner/hpp-rbprm-robot-data/badges/master/coverage.svg?job=doc-coverage)](http://projects.laas.fr/gepetto/doc/humanoid-path-planner/hpp-rbprm-robot-data/master/coverage/)
+# DEPRECATED PROJECT
 
+Please use the packages specific to each robots:
+* https://github.com/humanoid-path-planner/talos-rbprm
+* https://github.com/humanoid-path-planner/hyq-rbprm
+* https://github.com/humanoid-path-planner/simpleHumanoid-rbprm
+
+For the privates packages, see:
+* https://gepgitlab.laas.fr/hrp2-dev/hrp2-rbprm
+* https://gepgitlab.laas.fr/anybotics/anymal-rbprm
